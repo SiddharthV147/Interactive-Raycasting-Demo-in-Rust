@@ -1,6 +1,6 @@
 
 # Ignore build output folder
-/target/
+./target/
 
 # Ignore executables produced by Cargo (optional if they end up in target/)
 *.exe
