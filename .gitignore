@@ -1,0 +1,33 @@
+
+# Ignore build output folder
+/target/
+
+# Ignore executables produced by Cargo (optional if they end up in target/)
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore debug info files
+*.pdb
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore Rust backup files
+**/*.rs.bk
+
+# Ignore IDE/editor files (common ones)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore Cargo.lock (optional)
+# Uncomment the next line if you are building a library crate
+# Cargo.lock
