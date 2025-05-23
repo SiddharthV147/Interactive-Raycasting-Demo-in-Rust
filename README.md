@@ -67,6 +67,3 @@ cargo run
   - `draw_light_rays` function emitting and drawing rays with collision checking.
   - SDL2 event loop handling mouse interaction and rendering loop.
 
-## License
-
-This project is open source under the MIT License.
